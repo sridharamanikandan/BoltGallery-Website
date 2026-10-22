@@ -1,4 +1,4 @@
-# BoltGallery landing page
+# BoltGallery landing page 
 
 A responsive, static marketing website for BoltGallery, styled with a premium, Apple-inspired visual direction.
 
